@@ -15,7 +15,7 @@ public class Conteudo {
 
 	@Override
 	public String toString() {
-		return "Conteudo: " + dia + "/" + mes + ": " + topico + "->" + textoNoticia;
+		return "Conteudo da Noticia: " + dia + "/" + mes + ": " + topico + "->" + textoNoticia;
 	}
 	
 	
